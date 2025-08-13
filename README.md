@@ -248,56 +248,6 @@ Monitoring PoC/
 </nav>
 ```
 
-### Dashboard
-```html
-<div class="container p-lg">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-lg">
-        <div class="card">
-            <div class="card-body text-center">
-                <h3 class="text-lg font-semibold text-primary">Statistiques</h3>
-                <p class="text-3xl font-bold">1,234</p>
-            </div>
-        </div>
-        <!-- Répéter pour d'autres cartes -->
-    </div>
-</div>
-```
-
-### Dashboard de Monitoring
-```html
-<div class="main-layout">
-    <!-- Sidebar -->
-    <aside class="sidebar">
-        <div class="sidebar-brand">
-            <div class="sidebar-brand-icon"></div>
-            <span class="sidebar-brand-text">Dev-min</span>
-        </div>
-        <nav class="sidebar-nav">
-            <a href="#" class="sidebar-nav-item active">
-                <div class="sidebar-nav-icon icon-check"></div>
-                <span>Tableau de bord</span>
-            </a>
-        </nav>
-    </aside>
-    
-    <!-- Contenu principal -->
-    <main class="main-content">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-lg">
-            <div class="metric-card">
-                <h3 class="metric-title">CPU</h3>
-                <div class="metric-gauge">
-                    <div class="metric-gauge-bg">
-                        <div class="metric-gauge-fill"></div>
-                    </div>
-                    <div class="metric-value">25%</div>
-                </div>
-                <div class="metric-change decrease">-2%</div>
-            </div>
-        </div>
-    </main>
-</div>
-```
-
 ### Formulaire de contact
 ```html
 <form class="max-w-md mx-auto">
@@ -347,5 +297,5 @@ Ce kit UI est conçu pour être simple et intuitif. Si vous avez des questions :
 
 ---
 
-**Créé avec ❤️ en utilisant votre palette de couleurs personnalisée**
+**Créé avec ❤️ par LorenzoRU**
 # kitUI
