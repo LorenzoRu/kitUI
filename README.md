@@ -298,4 +298,4 @@ Ce kit UI est conçu pour être simple et intuitif. Si vous avez des questions :
 ---
 
 **Créé avec ❤️ par LorenzoRU**
-# kitUI
+
